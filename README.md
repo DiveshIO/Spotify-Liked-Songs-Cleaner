@@ -1,4 +1,4 @@
-# Spotify Liked Songs Cleaner 🎵🧹
+# Spotify Liked Songs Cleaner 
 
 A Python script to remove all tracks from your Spotify "Liked Songs" library using the Spotify Web API.
 
